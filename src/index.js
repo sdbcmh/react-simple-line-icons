@@ -18,7 +18,7 @@ const SimpleLineIcon = ({
   style,
   ...rest
 }) => (
-  <div
+  <i
     className={`icon-${name}`}
     style={{
       color,
